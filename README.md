@@ -16,7 +16,7 @@
 ├─▣ PEN TESTER
 ├─▣ Author of STEG-Detector and HASH-Cracker
 ├─▣ <a href"https://github.com/CYBEREYE-001">GITHUB PROFILE</a>
-├─▣ I am mostly available at <a href="https://t.me/@CYBEREYE91">CYBER EYE</a>
+├─▣ I am mostly available at <a href="https://t.me/CYBEREYE91">CYBER EYE</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -24,7 +24,7 @@
 │
 ├─◈ <a href="https://instagram.com">InstaGram</a>
 ├─◈ <a href="https://www.youtube.com/">YouTube</a>
-├─◈ <a href="https://t.me/@CYBEREYE91">Telegram</a>
+├─◈ <a href="https://t.me/CYBEREYE91">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
