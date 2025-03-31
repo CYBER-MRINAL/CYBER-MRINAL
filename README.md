@@ -13,7 +13,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ PEN TESTER
+├─▣ PENETRATION TESTER
 ├─▣ Author of STEG-Detector and HASH-Cracker
 ├─▣ <a href"https://github.com/CYBEREYE-001">GITHUB PROFILE</a>
 ├─▣ I am mostly available at <a href="https://t.me/cybereye001">CYBER EYE</a>
