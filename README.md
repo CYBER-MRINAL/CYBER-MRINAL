@@ -22,7 +22,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://instagram.com/cybereye001">InstaGram</a>
+├─◈ <a href="https://www.instagram.com/cybereye001/">InstaGram</a>
 ├─◈ <a href="https://www.youtube.com/@CYBEREYE-001">YouTube</a>
 ├─◈ <a href="https://t.me/cybereye001">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/">LinkedIn</a>
