@@ -27,6 +27,7 @@
 ├─◈ <a href="https://github.com/CYBEREYE-001/ONE-Type">ONE-Type</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/PSSWD-Checker">PSSWD-Checker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/SEC-File">SEC-File</a>
+├─◈ <a href="https://github.com/CYBEREYE-001/WEB-Scanner">WEB-Scanner</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
