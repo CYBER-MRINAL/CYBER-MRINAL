@@ -26,7 +26,7 @@
 ├─◈ <a href="https://github.com/CYBEREYE-001/PSSWD-Checker">PSSWD-Checker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/SEC-File">SEC-File</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/WEB-Scanner">WEB-Scanner</a>
-├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker>HASH-Cracker</a>
+├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker">HASH-Cracker</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
