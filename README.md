@@ -15,6 +15,7 @@
 ├─◈ <a href="https://t.me/cybereye001">Telegram</a>
 ├─◈ <a href="https://discord.gg/ac6wvDpdxQ">Discord</a>
 ├─◈ <a href="https://www.facebook.com/cybereye001">FaceBook</a>
+├─◈ <a href="https://x.com/CYBEREYE_001">Twitter</a>
 │
 └───────────────────────────────▰▰▰
 
