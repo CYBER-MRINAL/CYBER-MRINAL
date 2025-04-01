@@ -22,12 +22,12 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/CYBEREYE-001/STEG-Detector">STEG-Detector</a>
-├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker>HASH-Cracker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/KEYLOGGER-Detector">KEYLOGGER-Detector</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/ONE-Type">ONE-Type</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/PSSWD-Checker">PSSWD-Checker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/SEC-File">SEC-File</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/WEB-Scanner">WEB-Scanner</a>
+├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker>HASH-Cracker</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
