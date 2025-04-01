@@ -1,5 +1,4 @@
 <pre>
-
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ PENETRATION TESTER
