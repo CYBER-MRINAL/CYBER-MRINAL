@@ -14,7 +14,7 @@
 ├─◈ <a href="https://www.youtube.com/@CYBEREYE-001">YouTube</a>
 ├─◈ <a href="https://t.me/cybereye001">Telegram</a>
 ├─◈ <a href="https://discord.gg/ac6wvDpdxQ">Discord</a>
-├─◈ <a href="https://www.linkedin.com/">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/mrinal-pramanick-7a37b6359/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
