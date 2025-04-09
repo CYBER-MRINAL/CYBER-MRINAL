@@ -29,6 +29,7 @@
 ├─◈ <a href="https://github.com/CYBEREYE-001/WEB-Scanner">WEB-Scanner</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker">HASH-Cracker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/MAL-Analyzer">MAL-Analyzer</a>
+├─◈ <a href="https://github.com/CYBEREYE-001/NUM-Info">NUM-Info</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
