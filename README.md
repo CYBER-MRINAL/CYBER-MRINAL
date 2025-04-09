@@ -30,6 +30,7 @@
 ├─◈ <a href="https://github.com/CYBEREYE-001/HASH-Cracker">HASH-Cracker</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/MAL-Analyzer">MAL-Analyzer</a>
 ├─◈ <a href="https://github.com/CYBEREYE-001/NUM-Info">NUM-Info</a>
+├─◈ <a href="https://github.com/CYBEREYE-001/AUTOMATED-nmap">AUTO-Nmap</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
