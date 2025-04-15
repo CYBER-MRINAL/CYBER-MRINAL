@@ -3,19 +3,19 @@
 │
 ├─▣ PENETRATION TESTER
 ├─▣ Author of STEG-Detector and HASH-Cracker
-├─▣ <a href"https://github.com/CYBEREYE-001">GITHUB PROFILE</a>
+├─▣ This is my project show room -> <a href="https://github.com/CYBER-MRINAL">SHOW-ROOM</a>
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.instagram.com/cybermrinal/">InstaGram</a>
+├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
 ├─◈ <a href="https://www.youtube.com/@CYBER-MRINAL">YouTube</a>
 ├─◈ <a href="https://t.me/CYBERMRINAL">Telegram</a>
 ├─◈ <a href="https://discord.gg/ac6wvDpdxQ">Discord</a>
-├─◈ <a href="https://www.facebook.com/cybermrinal">FaceBook</a>
-├─◈ <a href="https://x.com/CYBEREYE_001">Twitter</a>
+├─◈ <a href="https://www.facebook.com/CYBERMRINAL">FaceBook</a>
+├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
 │
 └───────────────────────────────▰▰▰
 
