@@ -21,6 +21,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/CYBER-MRINAL/DIR-Fuzz">DIR-Fuzz</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/STEG-Detector">STEG-Detector</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/KEYLOGGER-Detector">KEYLOGGER-Detector</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/ONE-Type">ONE-Type</a>
