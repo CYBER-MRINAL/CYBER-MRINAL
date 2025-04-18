@@ -32,6 +32,7 @@
 ├─◈ <a href="https://github.com/CYBER-MRINAL/MAL-Analyzer">MAL-Analyzer</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/NUM-Info">NUM-Info</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/AUTOMATED-nmap">AUTO-Nmap</a>
+├─◈ <a href="https://github.com/CYBER-MRINAL/PORT-Scanner">PORT-Scanner</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
