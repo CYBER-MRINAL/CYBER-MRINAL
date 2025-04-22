@@ -1,5 +1,6 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="CYBER-MRINAL" /></p>
 <pre>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="CYBER-MRINAL" /></p>
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ PENETRATION TESTER
