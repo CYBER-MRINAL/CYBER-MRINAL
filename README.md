@@ -8,8 +8,6 @@
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
 │
 └───────────────────────────────▰▰▰
-
-
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
@@ -20,7 +18,6 @@
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
 │
 └───────────────────────────────▰▰▰
-
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/CYBER-MRINAL/DIR-Fuzz">DIR-Fuzz</a>
