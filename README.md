@@ -5,6 +5,7 @@
 ├─▣ Author of STEG-Detector and HASH-Cracker
 ├─▣ This is my project show room -> <a href="https://github.com/CYBER-MRINAL">SHOW-ROOM</a>
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
+│
 ├─▣ <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="CYBER-MRINAL" />
 │
 └───────────────────────────────▰▰▰
