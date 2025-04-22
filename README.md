@@ -7,7 +7,7 @@
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
 │
 └───────────────────────────────▰▰▰
-├─>> <p><img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="CYBER-MRINAL" /></p>
+├─>> <p align="center"><img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="CYBER-MRINAL" /></p>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
