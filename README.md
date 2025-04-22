@@ -8,6 +8,10 @@
 │
 └───────────────────────────────▰▰▰
 
+<p>
+  <img src="https://komarev.com/ghpvc/?usernameCYBER-MRINAL&label=Profile%20Views&color=0e75b6&style=flat" alt="luinor-0987" />
+</p>
+
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
