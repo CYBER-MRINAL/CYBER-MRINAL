@@ -10,8 +10,9 @@
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
+├─◈ <a href="https://www.instagram.com/CYBERMRINAL">Instagram</a>
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
+├─◈ <a href="https://www.linkedin.com/in/mrinal-pramanick-063232362/">Linkedin</a>
 ├─◈ <a href="https://t.me/CYBERMRINAL">Telegram</a>
 │
 └───────────────────────────────▰▰▰
