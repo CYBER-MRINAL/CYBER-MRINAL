@@ -13,7 +13,6 @@
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">InstaGram</a>
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
 ├─◈ <a href="https://t.me/CYBERMRINAL">Telegram</a>
-├─◈ <a href="https://discord.gg/ac6wvDpdxQ">Discord</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ PROJECTS ├───────▰▰▰
