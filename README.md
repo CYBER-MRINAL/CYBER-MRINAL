@@ -11,6 +11,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">Instagram</a>
+├─◈ <a href="https://www.linkedin.com/in/cyber-mrinal/">Linkedin</a>
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
 ├─◈ <a href="https://t.me/CYBERMRINAL">Telegram</a>
 │
