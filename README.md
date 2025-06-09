@@ -8,6 +8,9 @@
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
 │
 └───────────────────────────────▰▰▰
+┌──┤ WEBSITE ├─────────▰▰▰
+├─◈ <a href="https://cyber-mrinal.github.io/omswastra/">MY WEBSITE</a>
+└───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://cyber-mrinal.github.io/omswastra/">SHOW-ROOM</a>
