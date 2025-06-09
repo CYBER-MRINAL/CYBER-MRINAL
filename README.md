@@ -4,16 +4,19 @@
 │
 ├─▣ PENETRATION TESTER
 ├─▣ Author of STEG-Detector and HASH-Cracker
-├─▣ This is my project show room -> <a href="https://github.com/CYBER-MRINAL">SHOW-ROOM</a>
+├─▣ This is my project show room -> <a href="https://cyber-mrinal.github.io/omswastra/">SHOW-ROOM</a>
 ├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
+├─◈ <a href="https://cyber-mrinal.github.io/omswastra/">SHOW-ROOM</a>
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">Instagram</a>
 ├─◈ <a href="https://www.linkedin.com/in/CYBERMRINAL">Linkedin</a>
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
 ├─◈ <a href="https://t.me/CYBERMRINAL">Telegram</a>
+├─◈ <a href="https://hackerone.com/cyber-mrinal">Hacker-One</a>
+├─◈ <a href="https://bugcrowd.com/CYBER-MRINAL">BUG-Crowd</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ PROJECTS ├───────▰▰▰
