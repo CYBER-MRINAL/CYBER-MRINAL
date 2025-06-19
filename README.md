@@ -5,7 +5,7 @@
 ├─▣ PENETRATION TESTER
 ├─▣ Author of STEG-Detector and HASH-Cracker
 ├─▣ This is my project show room -> <a href="https://cyber-mrinal.github.io/omswastra/">SHOW-ROOM</a>
-├─▣ I am mostly available at <a href="https://t.me/CYBERMRINAL">TELEGRAM</a>
+├─▣ I am mostly available at <a href="https://t.me/cybermrinalgroup">TELEGRAM-GROUP</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ WEBSITE ├─────────▰▰▰
