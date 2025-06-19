@@ -13,7 +13,6 @@
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://cyber-mrinal.github.io/omswastra/">SHOW-ROOM</a>
 ├─◈ <a href="https://www.instagram.com/CYBERMRINAL">Instagram</a>
 ├─◈ <a href="https://www.linkedin.com/in/CYBERMRINAL">Linkedin</a>
 ├─◈ <a href="https://x.com/CYBERMRINAL">Twitter</a>
