@@ -24,6 +24,7 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/CYBER-MRINAL/LINUX-DEFENDER">LINUX-DEFENDER</a>
+├─◈ <a href="https://github.com/CYBER-MRINAL/Hare-Krishna">Hare-Krishna</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/DIR-Fuzz">DIR-Fuzz</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/STEG-Detector">STEG-Detector</a>
 ├─◈ <a href="https://github.com/CYBER-MRINAL/KEYLOGGER-Detector">KEYLOGGER-Detector</a>
