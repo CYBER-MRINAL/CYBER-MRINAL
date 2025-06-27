@@ -97,7 +97,7 @@
 ## 🧩 MINI CHALLENGE — TEST YOUR SKILLS
 
 ```bash
-curl -s https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.sh)
 ```
 
 🕵️ *(Hint: Cracking this will earn you exclusive tool access)*
