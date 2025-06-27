@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Red+Teamer+%7C+Exploit+Developer;Cyber+Security+Engineer;Malware+Analyst+%7C+Threat+Hunter;Defensive+Architect+%7C+Linux+Hardener;Hindu+Dharma+%7C+Cyber+Security++%7C+Devloper;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Red+Teamer+%7C+Exploit+Developer;Cyber+Security+Engineer;Malware+Analyst+%7C+Threat+Hunter;%7C+Defensive+Architect;%7C+Linux+Hardener;Hindu+Dharma+%7C+Cyber+Security;%7C+Devloper;" alt="Typing SVG" />
 </p>
 
 ---
