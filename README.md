@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYBER-MRINAL&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBER-MRINAL&theme=tokyonight" />
 </p>
 
 ---
