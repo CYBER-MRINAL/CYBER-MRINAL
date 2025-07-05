@@ -93,7 +93,7 @@ echo "⚔️  Hard Work > Motivation • Stay updated • Keep learning • Keep
 echo "🛡️  Respect & Love your work • Master the System (Linux, Windows & mac) • Weaponize Knowledge for secutiry"
 ```
 
-> *"Code is my weapon. Arch Linux is my fortress. Dharm & Desh are my power. Cyber Secutiry is my profession"*
+> *"Code is my weapon. Arch Linux is my fortress. Dharm & Desh are my power. Cyber Security is my profession"*
 
 ---
 
