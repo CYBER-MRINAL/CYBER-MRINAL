@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">
-  ⚔️ CYBER-MRINAL ( 🔴 + 🔵 => 🟣 ) ⚔️
+  ⚔️ CYBER-MRINAL ( 🔴 + 🔵 ) ⚔️
 </h1>
 <p align="center">
   <i>Digital Kshatriya | Weaponizing Code for Dharm & Desh</i>
