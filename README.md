@@ -99,5 +99,5 @@ echo "🛡️  Respect & Love your work • Master the System (Linux, Windows & 
 ---
 
 <p align="center">
-  🙏 जय श्री राम • ⚔️ CYBER MRINAL • DIGITAL KSHATRIYA 🙏
+   जय श्री राम • ⚔️ CYBER MRINAL • DIGITAL KSHATRIYA 
 </p>
