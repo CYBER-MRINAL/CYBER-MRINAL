@@ -63,6 +63,7 @@
 | [**STEG-Detector**](https://github.com/CYBER-MRINAL/STEG-Detector) | Detect hidden messages in images/audio/media |
 | [**KEYLOGGER-Detector**](https://github.com/CYBER-MRINAL/KEYLOGGER-Detector) | Hunt active Linux keyloggers |
 | [**WEB-Scanner**](https://github.com/CYBER-MRINAL/WEB-Scanner) | Hybrid surface + deep web vulnerability scanner |
+| [**WEB-CRAWLER**](https://github.com/CYBER-MRINAL/WEB-CRAWLER) | This is a simple website crawler for recon part. With colorfull output. And understandable response number. |
 | [**AUTO-Nmap**](https://github.com/CYBER-MRINAL/AUTOMATED-nmap) | One-command scan automation with powerful templates for nmap |
 | [**MAL-Analyzer**](https://github.com/CYBER-MRINAL/MAL-Analyzer) | Malware detector (Is your file safe for your system ? ) |
 | [**NUM-Info**](https://github.com/CYBER-MRINAL/NUM-Info) | OSINT tool to trace mobile number data |
