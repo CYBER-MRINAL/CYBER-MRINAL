@@ -1,12 +1,5 @@
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 <h1 align="center">
-  ⚔️ CYBER-MRINAL ( 🔴 + 🔵 ) ⚔️
+   <[CYBER-MRINAL]-[<img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&color=0e75b6&style=flat-square" alt="Profile Views" />]>
 </h1>
 <p align="center">
   <i>Digital Kshatriya | Weaponizing Code for Dharm & Desh</i>
@@ -36,7 +29,7 @@
 
 ---
 
-## 🌐 CONNECT WITH THE CYBER GRID
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://t.me/CYBERMRINAL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -76,7 +69,7 @@
 
 ---
 
-## 🧩 TERMINAL CHALLENGE – LEVEL 1 ACCESS
+## 🧩 PUZZLE CHALLANGE – [LEVEL]> *"ENTRY"*
 
 > 🎯 Are you worthy of secret tools? Begin here:
 
@@ -84,7 +77,7 @@
 wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.sh && bash entry.sh
 ````
 
-🕶️ *Hint: Unlocking this earns exclusive access.*
+🕶️ *Hint: Just use your brain, and keep open your gate of logic.*
 
 ---
 
@@ -96,10 +89,6 @@ echo "⚔️  Hard Work > Motivation • Stay updated • Keep learning • Keep
 echo "🛡️  Respect & Love your work • Master the System (Linux, Windows & mac) • Weaponize Knowledge for secutiry"
 ```
 
-> *"Code is my weapon. Arch Linux is my fortress. Dharm & Desh are my power. Cyber Security is my profession"*
+> *"Code is my weapon. Arch Linux is my fortress. Dharm & Desh are my power. Cyber Security is my profession"* *"जय श्री राम"* 
 
----
-
-<p align="center">
-   जय श्री राम • ⚔️ CYBER MRINAL • DIGITAL KSHATRIYA 
-</p>
+--- 
