@@ -9,26 +9,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Purple+Teamr+(>.<);Arch+Linux+->+(^_^);Scroll+down+now..." alt="MY-ROLES-ARE...." />
 </p>
 
----
+<p align="center">
+═══════════════════ ⚡ ═══════════════════
+</p>
 
-## ⚙️ TECH STACK DOMINANCE
-
+<p align="center">
+ ⚙️ TECH STACK DOMINANCE
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,bash,python,c,cpp,java,rust,go,ruby,powershell,html,css,js&theme=dark" />
 </p>
 
 ---
 
-## 📈 GITHUB INTEL FEED
+<p align="center">
+ 📈 GITHUB INTEL FEED <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&color=0e75b6&style=round-square" alt="[PROFILE-VIEWS]" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYBER-MRINAL&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="radar scan animation" />
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+<p align="center">
+ 🌐 CONNECT WITH ME
+</p>
 
 <p align="center">
   <a href="https://t.me/CYBERMRINAL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -42,9 +50,10 @@
 
 ---
 
-## 🧰 CYBER TOOLKIT – FEATURED PROJECTS
-
+<p align="center">
+ 🧰 MY FEATURED PROJECTS
 > 🔐 High-impact utilities engineered for modern digital warfare
+</p>
 
 | 🔰 Project | 💡 Description |
 |-----------|----------------|
