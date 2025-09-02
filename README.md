@@ -9,10 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Purple+Teamr+(>.<);Arch+Linux+->+(^_^);Scroll+down+now..." alt="MY-ROLES-ARE...." />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CYBER-MRINAL/CYBER-MRINAL/energy-beam.svg" width="100%" />
-</p>
-
+---
 
 <p align="center">
  ⚙️ TECH STACK DOMINANCE
