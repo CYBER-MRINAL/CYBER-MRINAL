@@ -1,13 +1,12 @@
-<h1 align="center">
-   <[CYBER-MRINAL]-[<img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&color=0e75b6&style=flat-square" alt="Profile Views" />]>
-</h1>
 <p align="center">
-  <i>Digital Kshatriya | Weaponizing Code for Dharm & Desh</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=00e5ff&center=true&width=900&lines=CYBER-MRINAL;NICE+TO+MEET+YOU+(^_^)" alt="CYBER-MRINAL" />
 </p>
+
+--- 
 
 <!-- ANIMATED ROLE HEADLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Red+Teamer+%7C+Exploit+Developer;Cyber+Security+Engineer;+Malware+Analyst;+Arch+Linux+Lover;+Purple+Teamer;Sanatani+%7C+India+is+my+country;+Digital+Kshatriya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Purple+Teamr+(>.<);Arch+Linux+->+(^_^);Scroll+down+now..." alt="MY-ROLES-ARE...." />
 </p>
 
 ---
@@ -69,15 +68,13 @@
 
 ---
 
-## 🧩 PUZZLE CHALLANGE – [LEVEL]> *"ENTRY"*
-
-> 🎯 Are you worthy of secret tools? Begin here:
+## 🧩 PUZZLE CHALLANGE – [ENTRY-COMMAND]
 
 ```bash
 wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.sh && bash entry.sh
 ````
 
-🕶️ *Hint: Just use your brain, and keep open your gate of logic.*
+]> *Hint: Just use your brain, and keep open your gate of logic.*
 
 ---
 
