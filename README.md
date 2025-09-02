@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-═══════════════════ ⚡ ═══════════════════
+  <img src="https://raw.githubusercontent.com/CYBER-MRINAL/CYBER-MRINAL/energy-beam.svg" width="100%" />
 </p>
+
 
 <p align="center">
  ⚙️ TECH STACK DOMINANCE
@@ -23,7 +24,7 @@
 ---
 
 <p align="center">
- 📈 GITHUB INTEL FEED <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&color=0e75b6&style=round-square" alt="[PROFILE-VIEWS]" />
+ 📈 GITHUB INTEL FEED [<img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&size=100&color=0e75b6&style=flat-square" alt="[PROFILE-VIEWS]" />]
 </p>
 
 <p align="center">
@@ -77,7 +78,7 @@
 
 ---
 
-## 🧩 PUZZLE CHALLANGE – [ENTRY-COMMAND]
+## 🧩 PUZZLE – [ENTRY-COMMAND]
 
 ```bash
 wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.sh && bash entry.sh
@@ -87,7 +88,7 @@ wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.s
 
 ---
 
-## 🧘 HACKER'S CODE OF CONDUCT
+## 🧘 MY CODE OF CONDUCT
 
 ```bash
 #!/bin/bash
