@@ -58,21 +58,22 @@
 | [**LINUX-DEFENDER**](https://github.com/CYBER-MRINAL/LINUX-DEFENDER) | Full-stack Linux hardening + AI to use + All in one framework + Full tight security + No 24/7 runtime because i respect privacy |
 | [**MAHAKAL-FRAMEWORK**](https://github.com/CYBER-MRINAL/Mahakal-Framework) | Full-stack recon and cracker suite for professional with privacy. Supreme Recon and Attack Suite |
 | [**SUDARSHAN**](https://github.com/CYBER-MRINAL/SUDARSHAN) | Made for efficient speed and reliablity for digital forensic professionals ( cli-based without any issue ) | 
-| [**Hare-Krishna**](https://github.com/CYBER-MRINAL/Hare-Krishna) | MAC/IP spoofing + system anonymity with browser control |
-| [**HASH-Cracker**](https://github.com/CYBER-MRINAL/HASH-Cracker) | GUI-based brute-force and dictionary hash cracker |
-| [**STEG-Detector**](https://github.com/CYBER-MRINAL/STEG-Detector) | Detect hidden messages in images/audio/media |
-| [**KEYLOGGER-Detector**](https://github.com/CYBER-MRINAL/KEYLOGGER-Detector) | Hunt active Linux keyloggers |
-| [**WEB-Scanner**](https://github.com/CYBER-MRINAL/WEB-Scanner) | Hybrid surface + deep web vulnerability scanner |
-| [**WEB-Dorker**](https://github.com/CYBER-MRINAL/WEB-Dorker) | Website dorking using multiple search engines with verified telpleates |
+| [**OPEN-EYE**](https://github.com/CYBER-MRINAL/OPEN-Eye) | Go language based port scanner for faster scan and reliablity | 
+| [**HARE-KRISHNA**](https://github.com/CYBER-MRINAL/Hare-Krishna) | MAC/IP spoofing + system anonymity with browser control |
+| [**HASH-CRACKER**](https://github.com/CYBER-MRINAL/HASH-Cracker) | GUI-based brute-force and dictionary hash cracker |
+| [**STEG-DETECTOR**](https://github.com/CYBER-MRINAL/STEG-Detector) | Detect hidden messages in images/audio/media |
+| [**KEYLOGGER-DETECTOR**](https://github.com/CYBER-MRINAL/KEYLOGGER-Detector) | Hunt active Linux keyloggers |
+| [**WEB-SCANNER**](https://github.com/CYBER-MRINAL/WEB-Scanner) | Hybrid surface + deep web vulnerability scanner |
+| [**WEB-DORKER**](https://github.com/CYBER-MRINAL/WEB-Dorker) | Website dorking using multiple search engines with verified telpleates |
 | [**WEB-CRAWLER**](https://github.com/CYBER-MRINAL/WEB-CRAWLER) | This is a simple website crawler for recon part. With colorfull output. And understandable response number. |
-| [**AUTO-Nmap**](https://github.com/CYBER-MRINAL/AUTOMATED-nmap) | One-command scan automation with powerful templates for nmap |
-| [**MAL-Analyzer**](https://github.com/CYBER-MRINAL/MAL-Analyzer) | Malware detector (Is your file safe for your system ? ) |
-| [**NUM-Info**](https://github.com/CYBER-MRINAL/NUM-Info) | OSINT tool to trace mobile number data |
-| [**PSSWD-Checker**](https://github.com/CYBER-MRINAL/PSSWD-Checker) | Leak checker and password audit toolkit |
-| [**SEC-File**](https://github.com/CYBER-MRINAL/SEC-File) | Encrypt + decoy protect any file |
-| [**PORT-Scanner**](https://github.com/CYBER-MRINAL/PORT-Scanner) | Fast multi-threaded TCP/UDP scanner |
-| [**DIR-Fuzz**](https://github.com/CYBER-MRINAL/DIR-Fuzz) | Logic-aware directory brute-forcer |
-| [**ONE-Type**](https://github.com/CYBER-MRINAL/ONE-Type) | AIO GUI recon tool (CLI revival planned) (Thinking to create a cli version) |
+| [**AUTO-NMAP**](https://github.com/CYBER-MRINAL/AUTOMATED-nmap) | One-command scan automation with powerful templates for nmap |
+| [**MAL-ANALYZER**](https://github.com/CYBER-MRINAL/MAL-Analyzer) | Malware detector (Is your file safe for your system ? ) |
+| [**NUM-INFO**](https://github.com/CYBER-MRINAL/NUM-Info) | OSINT tool to trace mobile number data |
+| [**PSSWD-CHECKER**](https://github.com/CYBER-MRINAL/PSSWD-Checker) | Leak checker and password audit toolkit |
+| [**SEC-FILE**](https://github.com/CYBER-MRINAL/SEC-File) | Encrypt + decoy protect any file |
+| [**PORT-SCANNER**](https://github.com/CYBER-MRINAL/PORT-Scanner) | Fast multi-threaded TCP/UDP scanner |
+| [**DIR-FUZZ**](https://github.com/CYBER-MRINAL/DIR-Fuzz) | Logic-aware directory brute-forcer |
+| [**ONE-TYPE**](https://github.com/CYBER-MRINAL/ONE-Type) | AIO GUI recon tool (CLI revival planned) (Thinking to create a cli version) |
 
 ---
 
