@@ -57,6 +57,7 @@
 |-----------|----------------|
 | [**LINUX-DEFENDER**](https://github.com/CYBER-MRINAL/LINUX-DEFENDER) | Full-stack Linux hardening + AI to use + All in one framework + Full tight security + No 24/7 runtime because i respect privacy |
 | [**MAHAKAL-FRAMEWORK**](https://github.com/CYBER-MRINAL/Mahakal-Framework) | Full-stack recon and cracker suite for professional with privacy. Supreme Recon and Attack Suite |
+| [**SUDHARSHAN**](httsp://github.com/CYBER-MRINAL/SUDARSHAN) | Made for efficient speed and reliablity for digital forensic professionals ( cli-based without any issue ) | 
 | [**Hare-Krishna**](https://github.com/CYBER-MRINAL/Hare-Krishna) | MAC/IP spoofing + system anonymity with browser control |
 | [**HASH-Cracker**](https://github.com/CYBER-MRINAL/HASH-Cracker) | GUI-based brute-force and dictionary hash cracker |
 | [**STEG-Detector**](https://github.com/CYBER-MRINAL/STEG-Detector) | Detect hidden messages in images/audio/media |
