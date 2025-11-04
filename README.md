@@ -37,13 +37,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/CYBERMRINAL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/CYBERMRINAL"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/CYBERMRINAL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://cyber-mrinal.github.io/omswastra"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://instagram.com/CYBERMRINAL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://hackerone.com/cyber-mrinal"><img src="https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
-  <a href="https://bugcrowd.com/CYBER-MRINAL"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
 </p>
 
 ---
