@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=900&color=00e5ff&center=true&lines=CYBER-MRINAL;BONSOR+(^_^)" alt="CYBER-MRINAL" />
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="Profile Views" />
+</div>
 <hr>
 
 <h2 align="center">🏆 [ACHIEVEMENTS]</h2>
@@ -10,12 +13,7 @@
 </p>
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="Profile Views" />
-</div>
-<hr>
-
-<h2 align="center">⚙️ [MY '/run/media/E0-562']</h2>
+<h2 align="center">⚙️ [STORAGE]</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,kali,bash,python,c,rust,go,ruby,powershell&theme=dark" />
 </p>
@@ -150,14 +148,6 @@ wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.s
   <b>💡 Hint: Use your logic and keep your gate of reasoning wide open!</b>
 </div>
 <hr>
-
-<h2 align="center">🛡️ Code of Conduct</h2>
-
-```bash
-#!/bin/bash
-echo "⚔️  Hard Work > Motivation • Stay updated • Keep learning • Keep practicing"
-echo "🛡️  Respect & Love your work • Master the System (Linux, Windows & mac) • Weaponize Knowledge for security"
-```
 
 <p align="center">
   <i>"Use Arch Linux, Use Hyperland desktop enviroment, and feel the energy of god-level configuration & customization."</i>
