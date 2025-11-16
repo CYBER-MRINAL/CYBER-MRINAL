@@ -9,10 +9,8 @@
 
 <h2 align="center">🏆 [ACHIEVEMENTS]</h2>
 <p align="center">
-  <br></br>
   <img src="https://github-profile-trophy.vercel.app/?username=CYBER-MRINAL&theme=matrix&row=1&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
-<br>
 <hr>
 
 <h2 align="center">⚙️ [STORAGE]</h2>
