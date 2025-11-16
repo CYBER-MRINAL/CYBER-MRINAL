@@ -2,32 +2,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=00e5ff&center=true&width=900&lines=CYBER-MRINAL;NICE+TO+MEET+YOU+(^_^)" alt="CYBER-MRINAL" />
 </p>
 
---- 
-
-<!-- ANIMATED ROLE HEADLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Purple+Teamr+(>.<);Arch+Linux+->+(^_^);Scroll+down+now..." alt="MY-ROLES-ARE...." />
-</p>
-
 ---
 
 <p align="center">
  ⚙️ TECH STACK DOMINANCE
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,git,bash,python,c,cpp,java,rust,go,ruby,powershell,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,kali,bash,python,c,rust,go,ruby,powershell&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
- 📈 GITHUB INTEL FEED [<img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&size=100&color=0e75b6&style=flat-square" alt="[PROFILE-VIEWS]" />]
+ 📈 GITHUB INTEL FEED [<img src="https://komarev.com/ghpvc/?username=CYBER-MRINAL&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="[PROFILE-VIEWS]" />]
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="radar scan animation" />
   <img src="https://github-readme-stats.vercel.app/api?username=CYBER-MRINAL&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="radar scan animation" />
 </p>
 
 ---
@@ -82,7 +75,7 @@ wget https://raw.githubusercontent.com/CYBER-MRINAL/HIDDEN-SCRIPT/master/entry.s
 
 ---
 
-## 🧘 MY CODE OF CONDUCT
+##  <[CODE OF CONDUCT]>
 
 ```bash
 #!/bin/bash
@@ -90,6 +83,6 @@ echo "⚔️  Hard Work > Motivation • Stay updated • Keep learning • Keep
 echo "🛡️  Respect & Love your work • Master the System (Linux, Windows & mac) • Weaponize Knowledge for secutiry"
 ```
 
-> *"Code is my weapon. Arch Linux is my fortress. Dharm & Desh are my power. Cyber Security is my profession"* *"जय श्री राम"* 
+> *"use arch linux make with hyperland and feel the enery of the god level customization"* *"[GOD-MODE]"* 
 
 --- 
