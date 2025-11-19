@@ -7,12 +7,6 @@
 </div>
 <hr>
 
-<h2 align="center">🏆 [ACHIEVEMENTS]</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CYBER-MRINAL&theme=matrix&row=1&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-<hr>
-
 <h2 align="center">⚙️ [STORAGE]</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,kali,bash,python,c,rust,go,ruby,powershell&theme=dark" />
@@ -30,10 +24,9 @@
 <h2 align="center">[IN DETAIL ANALYSIS]</h2>
 <div align="center">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBER-MRINAL&theme=tokyonight&fire=ff7364&sideNums=81e1fa&dates=ffffff&currStreakNum=ffb658&ring=aaffec&background=22272e" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
-  <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=CYBER-MRINAL&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
   <br></br>
 </div>
 <hr>
