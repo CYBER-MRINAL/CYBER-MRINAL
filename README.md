@@ -123,9 +123,7 @@
 <hr>
 
 <p align="center">
-  <i>"Use Arch Linux, Use Hyperland desktop enviroment, and feel the energy of god-level configuration & customization."</i>
-  <br>
-  <strong>[GOD-MODE]</strong>
+  <strong>[GOD-MODE]> </strong><i>"Use Arch Linux, Use Hyperland desktop enviroment, and feel the energy of god-level configuration & customization."</i>
 </p>
 
 ---
