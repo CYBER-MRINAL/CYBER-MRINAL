@@ -122,19 +122,6 @@
 
 <hr>
 
-<h2 align="center">🧩 Puzzle – Entry Command</h2>
-<p align="center">
-  <kbd>
-    <pre>
-      wget https://raw.githubusercontent.com/CYBER-4RMY/HIDDEN-SCRIPT/master/entry.sh && bash entry.sh
-    </pre>
-  </kbd>
-</p>
-<div align="center">
-  <b>💡 Hint: Use your logic and keep your gate of reasoning wide open!</b>
-</div>
-<hr>
-
 <p align="center">
   <i>"Use Arch Linux, Use Hyperland desktop enviroment, and feel the energy of god-level configuration & customization."</i>
   <br>
