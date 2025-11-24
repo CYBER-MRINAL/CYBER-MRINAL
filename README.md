@@ -1,6 +1,6 @@
 <!-- CYBER-MRINAL PROFILE README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=900&color=00e5ff&center=true&lines=CYBER-4RMY;BONSOR+(^_^)" alt="CYBER-MRINAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=900&color=00e5ff&center=true&lines=CYBER-4RMY;BONSOIR+(^_^)" alt="CYBER-MRINAL" />
 </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CYBER-4RMY&label=VISITORS&size=100&color=0e75b6&style=flat-rounded" alt="Profile Views" />
