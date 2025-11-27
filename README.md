@@ -24,9 +24,9 @@
 <h2 align="center">[IN DETAIL ANALYSIS]</h2>
 <div align="center">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CYBER-MRINAL&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CYBER-4RMY&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
   <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-MRINAL&layout=compact&theme=tokyonight&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-4RMY&layout=compact&theme=tokyonight&langs_count=10" />
   <br></br>
 </div>
 <hr>
