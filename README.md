@@ -21,16 +21,6 @@
 </div>
 <hr>
 
-<h2 align="center">[IN DETAIL ANALYSIS]</h2>
-<div align="center">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CYBER-4RMY&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBER-4RMY&layout=compact&theme=tokyonight&langs_count=10" />
-  <br></br>
-</div>
-<hr>
-
 <h2 align="center">🧰 [SOME IDEAS] [<a href="https://cyber-4RMY.github.io/omswastra"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>]</h2>
 <p align="center">
   <em>🔐 High-impact utilities engineered for modern digital warfare</em>
